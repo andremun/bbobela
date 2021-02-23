@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/211941225.svg)](https://zenodo.org/badge/latestdoi/211941225)
+
+
 This is perhaps more complex that the project before. The data flow usually is as follow:
 
 - Make sure that you modify the local configuration by changing localSetup.m
